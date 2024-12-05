@@ -1,0 +1,18 @@
+.--compact {
+	padding: 0 0 18px;
+}
+.header-top-bar {
+	background-color: var(--groningen-color-accent);
+  margin: 0px !important;
+	width: 100% !important;
+}
+
+.header-top-bar a {
+  color: var(--groningen-color-white) !important;
+	text-decoration: none !important;
+	font-weight: 500 !important;
+}
+
+.header-top-bar a:hover {
+		text-decoration: underline !important;
+}
