@@ -3,12 +3,12 @@
 }
 .header-top-bar {
 	background-color: var(--groningen-color-accent);
-  margin: 0px !important;
+    margin: 0px !important;
 	width: 100% !important;
 }
 
 .header-top-bar a {
-  color: var(--groningen-color-white) !important;
+    color: var(--groningen-color-white) !important;
 	text-decoration: none !important;
 	font-weight: 500 !important;
 }
