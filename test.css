@@ -3,8 +3,9 @@
 }
 .header-top-bar {
 	background-color: var(--groningen-color-accent);
-    margin: 0px;
+    margin: 0px !important;
 	width: 100%;
+    border-bottom: 0px;
 }
 
 .header-top-bar a {
