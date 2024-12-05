@@ -4,15 +4,16 @@
 .header-top-bar {
 	background-color: var(--groningen-color-accent);
     margin: 0px !important;
-	width: 100% !important;
+	width: 100%;
+    border-bottom: 0px;
 }
 
 .header-top-bar a {
-    color: var(--groningen-color-white) !important;
-	text-decoration: none !important;
-	font-weight: 500 !important;
+    color: var(--groningen-color-white);
+	text-decoration: none;
+	font-weight: 500;
 }
 
 .header-top-bar a:hover {
-		text-decoration: underline !important;
+		text-decoration: underline;
 }
