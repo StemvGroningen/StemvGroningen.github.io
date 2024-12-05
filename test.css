@@ -9,7 +9,7 @@
 }
 
 .header-top-bar a {
-    color: var(--groningen-color-white);
+    color: var(--groningen-color-accent);
 	text-decoration: none;
 	font-weight: 500;
 }
