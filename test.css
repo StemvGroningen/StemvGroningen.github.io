@@ -17,3 +17,7 @@
 .header-top-bar a:hover {
 		text-decoration: underline;
 }
+
+a:visited {
+	color: var(--utrecht-link-visited-color)
+}
