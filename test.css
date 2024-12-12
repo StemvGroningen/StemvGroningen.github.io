@@ -19,5 +19,5 @@
 }
 
 a:focus {
-	color: var(--groningen-color-accent);
+	color: var(--groningen-color-accent) !important;
 }
