@@ -18,6 +18,6 @@
 		text-decoration: underline;
 }
 
-a:visited {
-	color: var(--utrecht-link-visited-color)
+a:focus {
+	color: var(--groningen-color-accent);
 }
