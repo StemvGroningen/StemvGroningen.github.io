@@ -19,5 +19,5 @@
 }
 
 .image-component.--normal {
-    --image-height: auto;
+    --image-height: auto !important;
 }
