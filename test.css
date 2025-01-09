@@ -21,7 +21,3 @@
 a:focus {
 	color: var(--groningen-color-blue-link) !important;
 }
-
-.image-component.--normal {
-    --image-height: auto;
-}

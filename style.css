@@ -17,3 +17,7 @@
 .header-top-bar a:hover {
 		text-decoration: underline;
 }
+
+.image-component.--normal {
+    --image-height: auto;
+}
