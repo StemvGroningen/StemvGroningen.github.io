@@ -23,7 +23,7 @@
 }
 
 .hide-element .stembegroot--infolabels {
-	display: none;
+	display: none !important;
 }
 
 .hide-element .stembegroot-content-item-header {
