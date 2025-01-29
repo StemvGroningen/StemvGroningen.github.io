@@ -37,8 +37,7 @@
 
 /* idee dialog in begrootmodule */
 section.osc-begrootmodule-resource-detail-texts-and-actions-container > div > div > div {
-    display: flex
-;
+    display: flex;
     flex-direction: column;
     gap: 1rem;
 }
