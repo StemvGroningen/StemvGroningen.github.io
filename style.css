@@ -21,3 +21,11 @@
 .image-component.--normal {
     --image-height: auto !important;
 }
+
+.hide-element .stembegroot--infolabels {
+	display: none !important;
+}
+
+.hide-element .stembegroot-content-item-header {
+	display: none !important;
+}
