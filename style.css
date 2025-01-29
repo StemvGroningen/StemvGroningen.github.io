@@ -23,13 +23,17 @@
 }
 
 .hide-element .stembegroot--infolabels {
-	display: none !important;
+	display: none;
 }
 
 .hide-element .stembegroot-content-item-header {
-	display: none !important;
+	display: none;
 }
 
 .osc-gridder-resource-detail-budget-theme-bar {
-	display: none !important;
+	display: none;
+}
+
+.stem-begroot--container .utrecht-paragraph+.utrecht-paragraph {
+	display: none;
 }
