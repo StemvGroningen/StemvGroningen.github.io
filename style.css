@@ -45,3 +45,7 @@ section.osc-begrootmodule-resource-detail-texts-and-actions-container > div > di
 .osc-gridder-resource-detail-budget-theme-bar {
 	display: none;
 }
+
+.utrecht-form-field-description {
+    color: var(--utrecht-paragraph-color) !important;
+}
