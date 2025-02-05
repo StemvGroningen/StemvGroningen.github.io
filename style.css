@@ -1,51 +1,62 @@
-.openstad .--compact {
+.openstad .--compact,
+[data-apos-level].--compact {
 	padding: 0 0 18px;
 }
-.openstad .header-top-bar {
+.openstad .header-top-bar, 
+[data-apos-level] .header-top-bar {
 	background-color: var(--groningen-color-accent);
     margin: 0px !important;
 	width: 100%;
     border-bottom: 0px;
 }
 
-.openstad .header-top-bar a {
+.openstad .header-top-bar a, 
+[data-apos-level] .header-top-bar a {
     color: var(--groningen-color-white);
 	text-decoration: none;
 	font-weight: 500;
 }
 
-.openstad .header-top-bar a:hover {
+.openstad .header-top-bar a:hover, 
+[data-apos-level] .header-top-bar a:hover {
 		text-decoration: underline;
 }
 
-.openstad .image-component.--normal {
+.openstad .image-component.--normal, 
+[data-apos-level] .image-component.--normal {
     --image-height: auto !important;
 }
 
 /* idee overzicht in begrootmodule */
-.openstad .hide-element .stembegroot--infolabels {
+.openstad .hide-element .stembegroot--infolabels, 
+[data-apos-level] .hide-element .stembegroot--infolabels{
 	display: none !important;
 }
 
-.openstad .hide-element .stembegroot-content-item-header {
+.openstad .hide-element .stembegroot-content-item-header, 
+[data-apos-level] .hide-element .stembegroot-content-item-header{
 	display: none;
 }
 
-.openstad .stem-begroot--container .utrecht-paragraph+.utrecht-paragraph {
+.openstad .stem-begroot--container .utrecht-paragraph+.utrecht-paragraph, 
+[data-apos-level] .stem-begroot--container .utrecht-paragraph+.utrecht-paragraph{
 	display: none;
 }
 
 /* idee dialog in begrootmodule */
-.openstad section.osc-begrootmodule-resource-detail-texts-and-actions-container > div > div > div {
+.openstad section.osc-begrootmodule-resource-detail-texts-and-actions-container > div > div > div, 
+[data-apos-level] section.osc-begrootmodule-resource-detail-texts-and-actions-container > div > div > div {
     display: flex;
     flex-direction: column;
     gap: 1rem;
 }
 
-.openstad .osc-gridder-resource-detail-budget-theme-bar {
+.openstad .osc-gridder-resource-detail-budget-theme-bar, 
+[data-apos-level] .osc-gridder-resource-detail-budget-theme-bar {
 	display: none;
 }
 
-.openstad .utrecht-form-field-description {
+.openstad .utrecht-form-field-description, 
+[data-apos-level] .utrecht-form-field-description{
     color: var(--utrecht-paragraph-color) !important;
 }
