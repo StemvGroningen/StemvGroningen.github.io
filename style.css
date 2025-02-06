@@ -22,8 +22,8 @@
 		text-decoration: underline;
 }
 
-.openstad .image-component .--normal, 
-[data-apos-level] .image-component .--normal {
+.openstad .image-component.--normal, 
+[data-apos-level] .image-component.--normal {
     --image-height: auto !important;
 }
 
