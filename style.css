@@ -42,8 +42,8 @@
 }
 
 /* samenvating dialog verbergen */
-.openstad .osc-begrootmodule-resource-detail-texts-and-actions-container .utrecht-paragraph .strong,
-[data-apos-level] .osc-begrootmodule-resource-detail-texts-and-actions-container .utrecht-paragraph .strong {
+.openstad .osc-begrootmodule-resource-detail-texts-and-actions-container p.utrecht-paragraph.strong,
+[data-apos-level] .osc-begrootmodule-resource-detail-texts-and-actions-container p.utrecht-paragraph.strong {
 	display: none;
 }
 
