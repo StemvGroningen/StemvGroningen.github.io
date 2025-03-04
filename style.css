@@ -28,23 +28,16 @@
 }
 
 /* idee overzicht in begrootmodule */
-.openstad .hide-element .stembegroot--infolabels, 
-[data-apos-level] .hide-element .stembegroot--infolabels{
-	display: none !important;
-}
 
-.openstad .hide-element .stembegroot-content-item-header, 
-[data-apos-level] .hide-element .stembegroot-content-item-header{
-	display: none;
-}
-
-.openstad .stem-begroot--container .utrecht-paragraph+.utrecht-paragraph, 
-[data-apos-level] .stem-begroot--container .utrecht-paragraph+.utrecht-paragraph{
-	display: none;
-}
-
+/* samenvating verbergen */
 .openstad .stem-begroot--container .utrecht-paragraph, 
 [data-apos-level] .stem-begroot--container .utrecht-paragraph{
+	display: none;
+}
+
+/* beschrijving verbergen */
+.openstad .stem-begroot--container .utrecht-paragraph+.utrecht-paragraph, 
+[data-apos-level] .stem-begroot--container .utrecht-paragraph+.utrecht-paragraph{
 	display: none;
 }
 
