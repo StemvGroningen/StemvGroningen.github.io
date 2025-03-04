@@ -43,6 +43,11 @@
 	display: none;
 }
 
+.openstad .stem-begroot--container .utrecht-paragraph, 
+[data-apos-level] .stem-begroot--container .utrecht-paragraph{
+	display: none;
+}
+
 /* idee dialog in begrootmodule */
 .openstad section .osc-begrootmodule-resource-detail-texts-and-actions-container > div > div > div, 
 [data-apos-level] section .osc-begrootmodule-resource-detail-texts-and-actions-container > div > div > div {
