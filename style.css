@@ -47,6 +47,13 @@
 	display: none;
 }
 
+.openstad .osc-begrootmodule-resource-detail-texts-and-actions-container > div:nth-child(1) > div:nth-child(1) > div,
+[data-apos-level] .osc-begrootmodule-resource-detail-texts-and-actions-container > div:nth-child(1) > div:nth-child(1) > div {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
 /* spacing ideeën grid */
 .openstad .osc .osc-listview-template-columns-3 {
     grid-gap: 2rem;
