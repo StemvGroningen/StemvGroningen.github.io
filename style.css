@@ -29,6 +29,12 @@
 
 /* idee overzicht in begrootmodule */
 
+/* knoppen overzicht naast elkaar op mobile */
+@media only screen and (max-width: 768px) {
+    .openstad .osc-stem-begroot-content-item-footer {
+        flex-wrap: nowrap !important;
+    }
+}
 /* infolabels verbergen */
 .openstad .stembegroot--infolabels, 
 [data-apos-level] .stembegroot--infolabels{
