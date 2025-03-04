@@ -29,6 +29,12 @@
 
 /* idee overzicht in begrootmodule */
 
+/* infolabels verbergen */
+.openstad .stembegroot--infolabels, 
+[data-apos-level] .stembegroot--infolabels{
+	display: none !important;
+}
+
 /* samenvating verbergen */
 .openstad .stem-begroot--container .utrecht-paragraph, 
 [data-apos-level] .stem-begroot--container .utrecht-paragraph{
