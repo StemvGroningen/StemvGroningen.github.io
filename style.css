@@ -41,8 +41,9 @@
 	display: none;
 }
 
-.openstad .hide-summary .osc-begrootmodule-resource-detail-texts-and-actions-container
-[data-apos-level] .hide-summary .osc-begrootmodule-resource-detail-texts-and-actions-container {
+/* samenvating dialog verbergen */
+.openstad .osc-begrootmodule-resource-detail-texts-and-actions-container
+[data-apos-level] .osc-begrootmodule-resource-detail-texts-and-actions-container {
 	display: none;
 }
 
