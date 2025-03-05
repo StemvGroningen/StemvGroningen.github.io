@@ -74,6 +74,12 @@
 	display: none;
 }
 
+/* Begrootmodule: budget en tags verbergen in dialog */
+.openstad .osc-gridder-resource-detail-budget-theme-bar, 
+[data-apos-level] .osc-gridder-resource-detail-budget-theme-bar {
+	display: none;
+}
+
 /* font kleur omschrijving in formulier */
 .openstad .utrecht-form-field-description, 
 [data-apos-level] .utrecht-form-field-description{
