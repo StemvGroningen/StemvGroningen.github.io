@@ -80,6 +80,17 @@
 	display: none;
 }
 
+/* Begrootmodule: aantal stemmen sectie*/
+.openstad .stem-begroot-helptext-and-budget-section-budget {
+    background-color: var(--groningen-color-grey-background-light) !important;
+    border-radius: var(--groningen-border-radius-3px);
+    max-width: 400px;
+}
+
+.openstad .stem-begroot-budget-list {
+    justify-items: right;
+}
+
 /* font kleur omschrijving in formulier */
 .openstad .utrecht-form-field-description, 
 [data-apos-level] .utrecht-form-field-description{
