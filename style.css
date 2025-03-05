@@ -97,3 +97,11 @@
 .openstad .osc-resource-detail-content-items {
     padding: 0 !important;
 }
+
+/* header image witruimte op mobile verwijderen */
+@media screen and (max-width: 540px) {
+    .image-component.--small {
+      margin-left: -2.5%;
+      width: 105%;
+  }
+  }
