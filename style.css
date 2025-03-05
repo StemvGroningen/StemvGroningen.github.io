@@ -84,11 +84,7 @@
 .openstad .stem-begroot-helptext-and-budget-section-budget {
     background-color: var(--groningen-color-grey-background-light) !important;
     border-radius: var(--groningen-border-radius-3px);
-    max-width: 400px;
-}
-
-.openstad .stem-begroot-budget-list {
-    justify-items: right;
+    max-width: 350px;
 }
 
 /* font kleur omschrijving in formulier */
