@@ -1,3 +1,9 @@
+/* Openstad class font naar Roboto */
+.openstad .osc, .osc *,
+[data-apos-level] .osc, .osc * {
+    font-family: var(--utrecht-paragraph-font-family);
+}
+
 /* styling header */
 .openstad .--compact,
 [data-apos-level] .--compact {
