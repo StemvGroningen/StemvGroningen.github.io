@@ -99,13 +99,6 @@
     color: var(--utrecht-paragraph-color) !important;
 }
 
-/* keuzewijzer boxshadow slider verwijderen */
-.openstad .question .question-type-range, 
-[data-apos-level] .openstad .question-type-range .a-b-slider-container>*{
-    box-shadow: 0 !important;
-}
-
-
 /* padding idee detailpagina */
 .openstad .osc-resource-detail-content-items {
     padding: 0 !important;
