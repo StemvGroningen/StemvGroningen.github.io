@@ -101,7 +101,7 @@
 
 /* keuzewijzer boxshadow slider verwijderen */
 .openstad .question .question-type-range, 
-[data-apos-level] .question .question-type-range{
+[data-apos-level] .openstad .question-type-range .a-b-slider-container>*{
     box-shadow: 0 !important;
 }
 
