@@ -18,3 +18,15 @@
       width: 100%;
   }
 }
+
+/* positie logo in de footer */
+.openstad footer .container:after,
+[data-apos-level] footer .container:after {
+    background-position-x: left;
+}
+
+@media screen and (min-width: 768px) {
+    .openstad footer .container:after, [data-apos-level] footer .container:after {
+        background-position-x: right !important;
+    }
+}
