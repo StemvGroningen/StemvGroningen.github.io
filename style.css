@@ -143,3 +143,8 @@ box-shadow: none;
         background-position-x: right !important;
     }
 }
+
+/* tijdelijke oplossing pagina nummering */
+.openstad .osc-paginator {
+    flex-wrap: wrap;
+}
