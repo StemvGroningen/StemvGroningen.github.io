@@ -117,3 +117,13 @@ box-shadow: none;
       width: 105%;
   }
   }
+
+/* witruimte onder het input veld in een formulier */
+.openstad .utrecht-form-field__input {
+    padding-bottom: 20px;
+}
+
+/* witruimte onder een kaart in een formulier */
+.openstad .form-field-map-container {
+    padding-bottom: 20px;
+}
