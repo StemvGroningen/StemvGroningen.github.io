@@ -129,5 +129,5 @@ box-shadow: none;
 }
 
 .openstad .form-field-map-container .map-container {
-    width: var(--basemap-map-width);
+    width: var(--basemap-map-width) !important;
 }
