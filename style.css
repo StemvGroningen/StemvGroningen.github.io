@@ -148,3 +148,8 @@ box-shadow: none;
 .openstad .osc-paginator {
     flex-wrap: wrap;
 }
+
+/* aanpassing kleur bij melding na bestand uploaden (wcag) */
+.openstad .filepond--image-preview-overlay-success {
+    color: #266443;
+}
