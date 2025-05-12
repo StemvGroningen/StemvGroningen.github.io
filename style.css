@@ -153,3 +153,7 @@ box-shadow: none;
 .openstad .filepond--image-preview-overlay-success {
     color: #266443;
 }
+
+.openstad [data-filepond-item-state=processing-complete] .filepond--item-panel {
+    background-color: #266443;
+}
