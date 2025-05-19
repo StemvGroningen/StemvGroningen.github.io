@@ -1,0 +1,19 @@
+<h3 id="legend-title">Legenda</h3>
+<ul aria-labelledby="legend-title" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px; list-style: none; padding: 0;">
+
+  <li style="display: flex; align-items: center;">
+    <div aria-hidden="true" style="width: 40px; height: 10px; background-color: #00B0F0; border-radius: 3px; margin-right: 5px;"></div>
+    <span>Bestaand voetpad</span>
+  </li>
+
+  <li style="display: flex; align-items: center;">
+    <div aria-hidden="true" style="width: 40px; height: 10px; background-color: #FFFF00; border-radius: 3px; margin-right: 5px;"></div>
+    <span>Bestaand fietspad</span>
+  </li>
+
+  <li style="display: flex; align-items: center;">
+    <div aria-hidden="true" style="width: 40px; height: 10px; background-color: #FF0000; border-radius: 3px; margin-right: 5px;"></div>
+    <span>Nieuw voetpad</span>
+  </li>
+
+</ul>
