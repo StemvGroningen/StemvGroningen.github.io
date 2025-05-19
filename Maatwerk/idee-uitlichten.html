@@ -1,0 +1,26 @@
+1. Ga naar de 'Inzending maatwerk' widget en selecteer een resource
+2. Vervang 'street-art-rivierenbuurt' in de link voor het juiste project
+
+<style>
+    .card {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    img {
+        object-fit: cover;
+        width: auto;
+        height: 200px;
+    }
+</style>
+<section class="card">
+    <img src={{images.0.url}} alt="">
+    <h3 class="utrecht-heading-3">{{title}}</h3>
+    <p class="utrecht-paragraph">{{summary}}</p>
+    <p class="utrecht-button-group utrecht-button-group--row">
+        <a href="https://stemvan.groningen.nl/street-art-rivierenbuurt/idee%C3%ABn/idee-detailpagina?openstadResourceId={{resource.id}}"
+            class="utrecht-button-link utrecht-button-link--html-a utrecht-button-link--subtle" target="_self">Bekijk
+            het idee</a>
+    </p>
+</section>
