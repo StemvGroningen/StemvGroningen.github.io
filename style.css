@@ -157,3 +157,9 @@ box-shadow: none;
 .openstad [data-filepond-item-state=processing-complete] .filepond--item-panel {
     background-color: #266443;
 }
+
+
+/* aanpassing tekstkleur bij status idee detailpagina (wcag) */
+.openstad .osc .image-container>.osc-image-footer p {
+    color: var(--utrecht-document-color) !important;
+}
