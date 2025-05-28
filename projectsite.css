@@ -30,3 +30,9 @@
         background-position-x: right !important;
     }
 }
+
+/* Heading 'Over deze site in de footer verbergen' */
+#footer-container > footer > div > div:nth-child(2) > h2 {
+    position: absolute !important;
+    clip: rect(1px, 1px, 1px, 1px);
+}
