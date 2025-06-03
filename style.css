@@ -187,3 +187,7 @@ box-shadow: none;
 .reaction-input-container .question {
     padding: 0px !important;
 }
+
+.question-type-hidden {
+    display: none;
+}
