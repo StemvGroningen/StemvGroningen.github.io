@@ -161,7 +161,7 @@ box-shadow: none;
 
 /* aanpassing tekstkleur bij status idee detailpagina (wcag) */
 .openstad .osc .image-container>.osc-image-footer p {
-    color: var(--utrecht-document-color) !important;
+    color: var(--utrecht-paragraph-color) !important;
 }
 
 /* Idee status achtergrond kleur */
