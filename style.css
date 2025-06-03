@@ -179,3 +179,7 @@ box-shadow: none;
 .openstad .utrecht-form-field .utrecht-form-field-description {
     font-family: var(--utrecht-paragraph-font-family);
 }
+
+.question {
+    padding-bottom: 20px !important;
+}
