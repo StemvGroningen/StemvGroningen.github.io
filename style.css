@@ -169,3 +169,12 @@ box-shadow: none;
     position: absolute !important;
     clip: rect(1px, 1px, 1px, 1px);
 }
+
+/* Formulier styling */
+.openstad .utrecht-form-field .utrecht-form-field-description {
+    font-family: var(--utrecht-paragraph-font-family);
+}
+
+.openstad .utrecht-form-field-error-message {
+    padding-bottom: 20px !important;
+}
