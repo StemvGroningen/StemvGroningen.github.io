@@ -221,3 +221,8 @@ box-shadow: none;
 .openstad .utrecht-button-link {
     font-family: var(--utrecht-button-font-family);
 }
+
+/* Bevestigingsmail verstuurd alert */
+.flash-message--success {
+    border-left: 3px solid #E10019;
+}
