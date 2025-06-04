@@ -216,3 +216,8 @@ box-shadow: none;
 .openstad .osc-DialogContent > div {
     padding: 0px;
 }
+
+/* Variabel aangepast voor de font van een link  */
+.openstad .utrecht-button-link {
+    font-family: var(--utrecht-button-font-family);
+}
