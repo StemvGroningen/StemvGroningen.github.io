@@ -200,3 +200,8 @@ box-shadow: none;
 .openstad .utrecht-form-field__input {
     padding-bottom: 0px;
 }
+
+/* Document download container naar onder */
+.openstad .osc-resource-detail-column-container {
+    display: block;
+}
