@@ -191,3 +191,12 @@ box-shadow: none;
 .question-type-hidden {
     display: none;
 }
+
+/* Idee detailpagina: Witruimte verwijderen tussen reactieveld en button */
+.openstad .form-container .question .utrecht-form-field__input.help-text-active {
+    padding-bottom: 0px;
+}
+
+.openstad .utrecht-form-field__input {
+    padding-bottom: 0px;
+}
