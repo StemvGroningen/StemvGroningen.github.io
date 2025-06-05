@@ -203,6 +203,7 @@ box-shadow: none;
 .openstad .form-container .question .utrecht-form-field__input.help-text-active {
     padding-bottom: 0px;    
     display: flex;
+    flex-direction: column;
     gap: 4px;
 }
 
