@@ -235,3 +235,8 @@ box-shadow: none;
 .openstad .utrecht-button-link {
     font-family: var(--utrecht-button-font-family);
 }
+
+/* Reactie widget: witruimte tussen veld en button  */
+.openstad .comment-item .reaction-container .form-container {
+    grid-gap: 8px !important;
+}
