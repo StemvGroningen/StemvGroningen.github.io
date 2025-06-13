@@ -240,3 +240,28 @@ box-shadow: none;
 .openstad .comment-item .reaction-container .form-container {
     grid-gap: 8px !important;
 }
+
+/* Stap 2 in de begrootmodule  */
+.openstad .begroot-step-2-instruction-budget-status-panel {
+    display: flex;
+    flex-direction: column;
+}
+
+.step2Title {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+.openstad .budget-two-text-row-spaced {
+    padding: 0px;
+}
+
+@media only screen and (max-width: 768px) {
+    .openstad .begroot-step-2-instruction-budget-status-panel {
+        gap: 0rem;
+}
+}
+
+.begroot-step-panel > .spacer-1-5 {
+    display: none;
+}
