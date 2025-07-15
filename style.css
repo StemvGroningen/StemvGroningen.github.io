@@ -199,10 +199,6 @@ box-shadow: none;
     display: none;
 }
 
-.openstad .form-container {
-    display: flex !important;
-}
-
 /* Idee detailpagina: Witruimte verwijderen tussen reactieveld en button */
 .openstad .form-container .question .utrecht-form-field__input.help-text-active {
     padding-bottom: 0px;    
