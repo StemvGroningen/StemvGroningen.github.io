@@ -63,10 +63,11 @@
 }
 
 /* Begrootmodule: samenvating in dialog verbergen */
-.openstad .osc-begrootmodule-resource-detail-texts-and-actions-container p.utrecht-paragraph.strong,
+/*.openstad .osc-begrootmodule-resource-detail-texts-and-actions-container p.utrecht-paragraph.strong,
 [data-apos-level] .osc-begrootmodule-resource-detail-texts-and-actions-container p.utrecht-paragraph.strong {
 	display: none;
 }
+*/
 
 /* Begrootmodule: spacing tussen tekst in dialog */
 .openstad .osc-begrootmodule-resource-detail-texts-and-actions-container > div:nth-child(1) > div:nth-child(1) > div,
