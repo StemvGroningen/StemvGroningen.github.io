@@ -113,7 +113,7 @@
 	background-color: var(--nlds-price-background-color);
     width: fit-content;
     padding: 5px;
-    border-radius: 3px;
+    border-radius: var(--groningen-border-radius-3px);
 }
 
 /* Begrootmodule: budget en tags verbergen in dialog
