@@ -108,7 +108,7 @@
 }
 
 /* Begrootmodule: dialog budget opmaak grijs */
-.openstad .osc-gridder-resource-detail-budget-theme-bar, 
+.openstad .osc-gridder-resource-detail-budget-theme-bar .utrecht-paragraph, 
 [data-apos-level] .osc-gridder-resource-detail-budget-theme-bar .utrecht-paragraph {
 	background-color: var(--groningen-color-grey-background-light) !important;
     width: fit-content;
