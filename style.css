@@ -103,13 +103,13 @@
 }
 /* Begrootmodule: h4 verbergen in dialog */
 .openstad .osc-gridder-resource-detail-budget-theme-bar .h4, 
-[data-apos-level] .osc-gridder-resource-detail-budget-theme-bar .pill-grid {
+[data-apos-level] .osc-gridder-resource-detail-budget-theme-bar .h4 {
 	display: none;
 }
 
 /* Begrootmodule: dialog budget opmaak grijs */
-.openstad .osc-gridder-resource-detail-budget-theme-bar .h4, 
-[data-apos-level] .osc-gridder-resource-detail-budget-theme-bar .pill-grid {
+.openstad .osc-gridder-resource-detail-budget-theme-bar, 
+[data-apos-level] .osc-gridder-resource-detail-budget-theme-bar{
 	background-color: var(--nlds-price-background-color;
     width: fit-content;
     padding: 5px;
