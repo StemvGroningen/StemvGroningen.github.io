@@ -69,7 +69,7 @@
 }
 */
 
-/* Begrootmodule: linebreaks tonen */
+/* Begrootmodule: linebreaks tonen in dialog */
 .openstad .osc-begrootmodule-resource-detail-texts-and-actions-container p.utrecht-paragraph,
 [data-apos-level] .osc-begrootmodule-resource-detail-texts-and-actions-container p.utrecht-paragraph {
 	white-space: pre-wrap;
@@ -107,7 +107,7 @@
     background-color: var(--groningen-color-grey-background-light) !important;
     border-radius: var(--groningen-border-radius-3px);
     max-width: 350px;
-}
+} 
 
 /* font kleur omschrijving in formulier */
 .openstad .utrecht-form-field-description, 
