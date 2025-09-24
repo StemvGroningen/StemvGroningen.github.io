@@ -107,6 +107,15 @@
 	display: none;
 }
 
+/* Begrootmodule: dialog budget opmaak grijs */
+.openstad .osc-gridder-resource-detail-budget-theme-bar .h4, 
+[data-apos-level] .osc-gridder-resource-detail-budget-theme-bar .pill-grid {
+	background-color: var(--nlds-price-background-color;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 3px;
+}
+
 /* Begrootmodule: budget en tags verbergen in dialog
 .openstad .osc-gridder-resource-detail-budget-theme-bar .pill-grid, 
 [data-apos-level] .osc-gridder-resource-detail-budget-theme-bar .pill-grid {
