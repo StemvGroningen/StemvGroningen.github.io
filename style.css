@@ -102,8 +102,8 @@
 	display: none;
 }
 /* Begrootmodule: h4 verbergen in dialog */
-.openstad .osc-gridder-resource-detail-budget-theme-bar .h4, 
-[data-apos-level] .osc-gridder-resource-detail-budget-theme-bar .h4 {
+.openstad .osc-gridder-resource-detail-budget-theme-bar h4, 
+[data-apos-level] .osc-gridder-resource-detail-budget-theme-bar h4 {
 	display: none;
 }
 
