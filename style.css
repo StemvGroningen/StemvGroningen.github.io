@@ -96,11 +96,11 @@
 	display: none;
 }
 
-/* Begrootmodule: budget en tags verbergen in dialog 
-.openstad .osc-gridder-resource-detail-budget-theme-bar, 
-[data-apos-level] .osc-gridder-resource-detail-budget-theme-bar {
+/* Begrootmodule: budget en tags verbergen in dialog */
+.openstad .osc-gridder-resource-detail-budget-theme-bar .pill-grid, 
+[data-apos-level] .osc-gridder-resource-detail-budget-theme-bar .pill-grid {
 	display: none;
-}*/
+}
 
 /* Begrootmodule: aantal stemmen sectie*/
 .openstad .stem-begroot-helptext-and-budget-section-budget {
