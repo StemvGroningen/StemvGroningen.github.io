@@ -305,7 +305,8 @@ box-shadow: none;
 }
 
 /* Aspectratio veranderen inzendingenoverzicht*/
-.openstad .aspectratio-aanpassen .osc .image-container>img{
+.openstad .aspectratio-aanpassen .osc .image-container>img,
+[data-apos-level] .aspectratio-aanpassen .osc .image-container>img{
 	aspect-ratio: 1 / 1 !important;
 }
 
