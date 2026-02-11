@@ -51,10 +51,10 @@
 }
 
 /* Begrootmodule: infolabel sectie verbergen */
-/*.openstad .stembegroot--infolabels, 
+.openstad .stembegroot--infolabels, 
 [data-apos-level] .stembegroot--infolabels{
 	display: none !important;
-}*/
+}
 
 /* Begrootmodule: optie om samenvating te verbergen met hide-summary class */
 .openstad .hide-summary .stem-begroot--container .utrecht-paragraph, 
