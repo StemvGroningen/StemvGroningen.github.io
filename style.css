@@ -1,3 +1,7 @@
+.osc-agenda-date-label, [data-apos-level] .osc-agenda-date-label{
+display: none;
+}
+
 /* Openstad class font naar Roboto */
 .openstad .osc, .osc *,
 [data-apos-level] .osc, .osc * {
